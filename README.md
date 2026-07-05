@@ -17,32 +17,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Projeto 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criada uma apresentação em slides em PowerPoint sobre a Pirâmide de Testes, além de um ebook e um vídeo com a apresentação dos slides.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram utilizadas as ferramentas ChatGPT, Gamma e D-ID.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O ChatGPT foi utilizado para criar o ebook. O Gamma foi usado para criar os slides, utilizando o conteúdo do ebook como base de conhecimento, e também para criar o vídeo, usando os slides como fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A proposta foi entregue em três formatos: apresentação em slides, ebook e vídeo, permitindo uma comunicação mais completa e visual do conteúdo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+A produtividade alcançada foi excepcional. Provavelmente eu levaria semanas para produzir todo esse conteúdo e, ainda assim, não disponho de todas as habilidades técnicas nem dos equipamentos necessários para criar um vídeo com esse nível de qualidade. Essa experiência evidenciou como a inteligência artificial pode potencializar a produtividade, reduzir o tempo de execução e ampliar a capacidade de entrega, permitindo que ideias sejam transformadas em resultados de forma muito mais eficiente.
+
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](/resources/ebook-piramide-de-testes.pdf)
+-[Apresentação](/resources/piramide-de-testes.pptx)
+- [Vídeo (Avatar Virtual)](/resources/piramide-de-testes.mp4)
 
 ## Links Interessantes
 
